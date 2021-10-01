@@ -6,11 +6,11 @@
 [![Twitter: elishahyousaf](https://img.shields.io/twitter/follow/elishah_yousaf?style=social)](https://twitter.com/elishah_yousaf)
 [![Linkedin: elishahyousaf](https://img.shields.io/badge/-elishahyousaf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elishahyousaf/)](https://www.linkedin.com/in/elishahyousaf/)
 [![GitHub elishahyousaf](https://img.shields.io/github/followers/elishahyousaf?label=follow&style=social)](https://github.com/elishahyousaf)
-[![Instagram: elishahyousaf](https://img.shields.io/instagram/followers/elishahyousaf?label=follow&style=social)](https://instagram.com/elishah_yousaf)
+[![Instagram: elishahyousaf](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/elishah_yousaf)
 [![Facebook: elishahyousaf](https://img.shields.io/facebook/followers/elishahyousaf?label=follow&style=social)](https://facebook.com/elishahyousaf)
 
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 
-![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=elishahyousaf=synthwave&show_icons=true&count_private=true “Andres’ GutHub Stats”)
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
