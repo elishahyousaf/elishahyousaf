@@ -1,16 +1,31 @@
-### Hi there 👋
+<h2> Hi, I'm Elishah Yousaf! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/9GIE4bg4EV7UYFeP5B/giphy.gif" width="230">
+<p><em>Student of Software Engineering at <a href="https://www.vu.edu.pk/">Virtual University of Pakistan</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Freelance Graphic and Socaial Media Manager at <a href="https://www.Fiverr.com">Fiverr</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**elishahyousaf/elishahyousaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter: elishahyousaf](https://img.shields.io/twitter/follow/elishahyousaf?style=social)](https://twitter.com/elishahyousaf)
+[![Linkedin: elishahyousaf](https://img.shields.io/badge/-elishahyousaf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elishahyousaf/)](https://www.linkedin.com/in/elishahyousaf/)
+[![GitHub elishahyousaf](https://img.shields.io/github/followers/elishahyousaf?label=follow&style=social)](https://github.com/elishahyousaf)
+[![GitHub elishahyousaf](https://img.shields.io/instagram/followers/elishahyousaf?label=follow&style=social)](https://instagram.com/elishah_yousaf)
+[![GitHub elishahyousaf](https://img.shields.io/facebook/followers/elishahyousaf?label=follow&style=social)](https://facebook.com/elishahyousaf)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const elishahyousaf = {
+  pronouns: "he" | "him",
+  code: [HTML, CSS, Sql, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                  
+                        mentor: "YCC"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on Python"
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
