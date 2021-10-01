@@ -3,7 +3,7 @@
 <p><em>Student of Software Engineering at <a href="https://www.vu.edu.pk/">Virtual University of Pakistan</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Freelance Graphic and Socaial Media Manager at <a href="https://www.Fiverr.com">Fiverr</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: elishahyousaf](https://img.shields.io/twitter/follow/elishahyousaf?style=social)](https://twitter.com/elishahyousaf)
+[![Twitter: elishahyousaf](https://img.shields.io/twitter/follow/elishahyousaf?style=social)](https://twitter.com/elishah_yousaf)
 [![Linkedin: elishahyousaf](https://img.shields.io/badge/-elishahyousaf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elishahyousaf/)](https://www.linkedin.com/in/elishahyousaf/)
 [![GitHub elishahyousaf](https://img.shields.io/github/followers/elishahyousaf?label=follow&style=social)](https://github.com/elishahyousaf)
 [![Instagram: elishahyousaf](https://img.shields.io/instagram/followers/elishahyousaf?label=follow&style=social)](https://instagram.com/elishah_yousaf)
