@@ -8,8 +8,8 @@
 [![GitHub elishahyousaf](https://img.shields.io/github/followers/elishahyousaf?label=follow&style=social)](https://github.com/elishahyousaf)
 [![Instagram: elishahyousaf](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/elishah_yousaf)
 [![Facebook: elishahyousaf](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/elishahyousaf)
+[![Facebook: elishahyousaf](https://aleen42.github.io/badges/src/pinterest.svg)](https://pinterest.com/elishahyousaf)
 
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
