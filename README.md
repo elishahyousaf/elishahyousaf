@@ -10,6 +10,8 @@
 [![Facebook: elishahyousaf](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/elishahyousaf)
 [![Pinterest: elishahyousaf](https://aleen42.github.io/badges/src/pinterest.svg)](https://pinterest.com/elishahyousaf)
 [![Reddit: elishahyousaf](https://aleen42.github.io/badges/src/reddit.svg)](https://www.reddit.com/user/elishahyousaf)
+[![Stack Overflow: elishahyousaf](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/14918490/elishah-yousaf)
+
 
 
 
