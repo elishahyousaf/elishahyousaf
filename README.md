@@ -13,7 +13,8 @@
 [![Stack Overflow: elishahyousaf](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/14918490/elishah-yousaf)
 
 
-<H1>OS</H1>
+<H1>OS</H1> 
+<H1>Linux,Windows,Ios and Android</H1> 
 [![Android: elishahyousaf](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 
 
