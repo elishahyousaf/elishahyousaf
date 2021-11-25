@@ -1,6 +1,6 @@
 <h2> Hi, I'm Elishah Yousaf! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/9GIE4bg4EV7UYFeP5B/giphy.gif" width="230">
-<p><em>Student of Software Engineering at <a href="https://www.vu.edu.pk/">Virtual University of Pakistan</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Freelance Graphic and Socaial Media Manager at <a href="https://www.Fiverr.com">Fiverr</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Student of Software Engineering at <a href="https://www.vu.edu.pk/">Virtual University of Pakistan</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Freelance Graphic and Socail Media Manager at <a href="https://www.Fiverr.com">Fiverr</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: elishahyousaf](https://img.shields.io/twitter/follow/elishah_yousaf?style=social)](https://twitter.com/elishah_yousaf)
