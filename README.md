@@ -15,7 +15,7 @@
 
 
 <H1>OS</H1> 
-<H1>Linux(Ubuntu, Kubuntu), Windows(Xp, Vista, 7, 8.1, 10), IOS and Android</H1> 
+<H2>Linux(Ubuntu, Kubuntu), Windows(Xp, Vista, 7, 8.1, 10), IOS and Android</H2> 
 
 
 
