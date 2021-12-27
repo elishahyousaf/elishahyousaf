@@ -1,4 +1,4 @@
-<h2> Hi, I'm Elishah Yousaf! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h1> Hi, I'm Elishah Yousaf! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <img align='right' src="https://media.giphy.com/media/9GIE4bg4EV7UYFeP5B/giphy.gif" width="230">
 <p><em>Student of Software Engineering at <a href="https://www.vu.edu.pk/">Virtual University of Pakistan</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Freelance Graphic Designer and Social Media Manager at <a href="https://www.Fiverr.com">Fiverr</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
