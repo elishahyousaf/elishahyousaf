@@ -14,6 +14,10 @@
 
 
 
+        [Eddie Jaoude](http://eddiejaoude.io)
+
+
+
 <H1>OS</H1> 
 <H2>Linux(Ubuntu, Kubuntu, Kali, Linux Mint), Windows(Xp, Vista, 7, 8.1, 10), IOS and Android</H2> 
 
